@@ -1,4 +1,4 @@
-# 🎮 Juegos Amigo Secreto - Proyectos de JavaScript
+# 🎮 Juegos Amigo Secreto - Proyecto de JavaScript
 
 Una juego interactivo desarrollado en JavaScript puro, HTML y CSS. Es un challenge del programa Oracle Next Education 
 
@@ -106,3 +106,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **¡Disfruta jugando!** 🎮✨
 
 *Desarrollado con ❤️ para la comunidad de Alura*
+
